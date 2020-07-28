@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "content_security_policy": "script-src \u0027self\u0027 https://dl.dropboxusercontent.com; object-src \u0027self\u0027",
+    "version": "0.0.6",
+
+    "description": "wikidot编辑器及页面优化",
+    "name": "WD Editor",
+    "permissions": [
+        "tabs",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "icons": {
+        "48": "img/wikidot-48.png",
+        "128": "img/wikidot-128.png"
+    },
+    "content_scripts": [{
+        "matches": [
+            "http://*/*",
+            "https://*/*"
+        ],
+        "js": ["js/inject.js"]
+    }]
+}

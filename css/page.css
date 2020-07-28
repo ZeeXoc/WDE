@@ -1,0 +1,27 @@
+body {
+	min-width: 210px;
+}
+
+
+#content-wrap {
+    margin: 0 !important;
+}
+
+
+
+#edit-area {
+	position: absolute;
+	left: 0;
+	width: 46%;
+	margin: 2%;
+	height: 100%;
+}
+
+#main-content {
+	position: absolute;
+	right: 0;
+	width: 46%;
+	margin:2%;
+
+	
+}

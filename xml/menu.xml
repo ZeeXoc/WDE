@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<menus>
+		<menu id="link">
+			<a href="javascript:;">网站链接</a>
+			<ul>
+			<li><a href="/start">沙盒主页</a></li>
+			<li><a href="/index">沙盒目录</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com">SCP-CN维基</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com/how-to-write-an-scp">如何撰写一篇SCP文档</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com/guide-hub">指导中心</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com/wiki-syntax">维基语法</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com/syntax-quick-reference">语法速查</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com/forum/c-882988/">讨论区：点子及头脑风暴</a></li>
+			<li><a href="http://scp-wiki-cn.wikidot.com/forum/c-882987/">讨论区：草稿与批判</a></li>
+			</ul>
+		</menu>
+</menus>
